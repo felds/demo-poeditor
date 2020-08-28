@@ -1,6 +1,8 @@
 {
-    "as shown in the home page": {
-        "Hello, World!": "Olá, Mundo!"
-    },
-    "Welcome to my Angelfire website.": "Welcome to my Angelfire website."
+    "Hello, World!": "Olá, Mundo!",
+    "Welcome to my Angelfire website.": "Welcome to my Angelfire website.",
+    "buttons": {
+        "Save": "",
+        "Cancel": ""
+    }
 }
